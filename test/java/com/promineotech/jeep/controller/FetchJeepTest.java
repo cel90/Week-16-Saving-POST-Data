@@ -32,13 +32,6 @@ import lombok.Getter;
  
 class FetchJeepTest {
 
- // private JdbcTemplate jdbcTemplate ;
-  
-  // @Test
-  // void testdb() {
-  //   int numrows = JdbcTestUtils.countRowsInTable(jdbcTemplate, "customers") ;
-   //  System.out.print("Num rows: " + numrows);
-  // }
 
   @Autowired
   @Getter
